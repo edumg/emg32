@@ -1,0 +1,9 @@
+{
+  "name": "rigotti.nl",
+  "version": "0.0.1",
+  "description": "My personal website",
+  "main": "index.js",
+  "repository": "https://github.com/JRigotti/rigotti.nl.git",
+  "author": "Jean Rigotti <gmgotti@protonmail.com>",
+  "license": "MIT"
+}
