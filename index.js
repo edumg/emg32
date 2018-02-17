@@ -1,13 +1,6 @@
-import React, { Component } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
 
-
-class App extends Component {
-    render() {
-        return (
-            <h1>Rigotti</h1>
-        );
-    }
-}
+import App from './src/App.jsx';
 
 ReactDOM.render(<App />, document.getElementById('app'));
