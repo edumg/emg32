@@ -6,10 +6,11 @@ class App extends Component {
     render() {
         return (
             <main>
-              <h1>Rigotti</h1>
-              <p>
-                My name is Jean Rigotti and I am full stack developer based in Amsterdam.
-              </p>
+                <h1>Rigotti</h1>
+                <p>
+                    My name is Jean Rigotti and I am full stack developer based
+                    in Amsterdam.
+                </p>
             </main>
         );
     }

@@ -1,0 +1,5 @@
+{
+    "tab-width": 4,
+    "single-quote": true,
+    "arrow-parens": "always"
+}
